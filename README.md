@@ -1,3 +1,3 @@
-# lab-agile-planning-
+# lab-agile-planning
 
 READ ME
